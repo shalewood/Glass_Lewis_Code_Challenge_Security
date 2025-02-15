@@ -41,4 +41,4 @@ Need to add Authorization	Type used is "bearer"
 
 Add Token and select the type of request you want
 
-Note this can also be used on swagger - Authorize Button is where you will copy Toke to allow you to use the "Company" API code
+Note this can also be used on swagger - Authorize Button is where you will copy Token to allow you to use the "Company" API code
